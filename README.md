@@ -12,6 +12,6 @@ Here you will find:
 - version notes
 - simple download updates
 
-If EventLens saves you time or helps you rescue a PC, you can support the project here:
+If EventLens saves you time or helps you rescue a PC, please consider supporting the project!:
 
 [https://ko-fi.com/eventlens](https://ko-fi.com/eventlens)
